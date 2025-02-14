@@ -1,4 +1,4 @@
-# Team-Error_Not_Found
+# Team : Error_Not_Found
 
 ## Accuracy : 
 ![Accuracy](https://github.com/user-attachments/assets/9812c698-43f9-4f4e-a09d-0d3759105d2a)
